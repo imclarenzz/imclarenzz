@@ -55,10 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imclarenzz/imclarenzz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/VOf_IsXVKfsAAAAC/meme-elmo.gif"  />
 
 ###
